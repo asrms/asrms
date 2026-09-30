@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Marco Salvatori 👋</h1>
-  <h3>Full-Stack Software Engineer | AI Integrator | Startup Co-founder</h3>
+  <h3>Full-Stack Software Engineer | Java · Spring · React | AI-Assisted Development & Agentic Workflows | Co-founder of KeepWatching</h3>
   
   <p>
     I bridge the gap between <b>Enterprise stability</b> and <b>Startup agility</b>. <br>
@@ -21,10 +21,10 @@
 
 ## 🚀 About Me
 
-Currently working as a Full-Stack Software Engineer at **Lutech**, managing end-to-end software lifecycles for major enterprise clients (Banking, Public Administration, Logistics).
-Beyond enterprise architectures, I am the Co-founder of **KeepWatching**, a cross-platform mobile app brought from 0 to 1, fully deployed on self-hosted cloud infrastructure.
+I work as a Full-Stack Software Engineer at **Lutech** (since 2019, as a consultant through Unikey until June 2021). I manage end-to-end software lifecycles for enterprise clients in Banking, Logistics, Entertainment, Shipping and Public Administration, and mentor a junior developer.
+Beyond enterprise architectures, I am the Co-founder of **KeepWatching**, a cross-platform mobile app brought from 0 to 1 and launched on the App Store and Google Play in August 2026, fully deployed on self-hosted cloud infrastructure.
 
-My core focus today is **AI-Assisted Development**: I actively integrate LLMs (Claude, GitHub Copilot) and design agentic networks to automate code generation, optimize delivery, and analyze complex server logs.
+My core focus today is **AI-Assisted Development**: I actively integrate LLMs (Claude, GitHub Copilot) and design agentic networks, shared with my team, to automate code generation, optimize delivery, and analyze complex server logs.
 
 ## 💻 Tech Stack
 
@@ -36,7 +36,6 @@ My core focus today is **AI-Assisted Development**: I actively integrate LLMs (C
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![Expo](https://img.shields.io/badge/expo-000020.svg?style=flat-square&logo=expo&logoColor=white)
-![JSP](https://img.shields.io/badge/jsp-%23007396.svg?style=flat-square&logo=java&logoColor=white)
 
 **Backend & Databases**
 <br>
@@ -44,9 +43,12 @@ My core focus today is **AI-Assisted Development**: I actively integrate LLMs (C
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-59666C.svg?style=flat-square&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-C71A36.svg?style=flat-square&logo=apachemaven&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4B5563.svg?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **DevOps, Cloud & Architecture**
 <br>
@@ -71,7 +73,7 @@ My core focus today is **AI-Assisted Development**: I actively integrate LLMs (C
 An open-source library of **46 specialized AI agents** and **304 modular skills** designed for the entire SDLC. Built around an Agent+Skills deterministic architecture to reduce hallucinations and enforce strict security/architecture rules for enterprise environments.
 
 ### 🎬 KeepWatching App
-A mobile and web application to discover and track movies and TV series, launched from scratch and scaled to 500+ users with a 5-star rating.
+A mobile and web application to discover and track movies and TV series, launched from scratch in August 2026 and grown to 500+ registered users with a 5-star rating.
 * **Stack:** React, React Native / Expo, TypeScript.
 * **Infrastructure:** Self-hosted Supabase (PostgreSQL, Auth, REST) on an Oracle Cloud VPS, secured via VPN and automated backup routines.
 
